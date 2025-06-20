@@ -41,15 +41,6 @@ I'm a software developer with 4+ years of experience in **casino game developmen
 - 🎯 **Puzzle Bomb Game**  
   Casual Flutter puzzle game — animations, logic, and responsive UI.
 
----
-
-## 📈 GitHub Stats
-
-![SuppremeLordex GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuppremeLordex&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuppremeLordex&layout=compact&theme=tokyonight)
-
----
 
 ## 🌱 Currently Exploring
 
