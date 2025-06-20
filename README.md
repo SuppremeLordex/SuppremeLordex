@@ -53,8 +53,8 @@ I'm a software developer with 4+ years of experience in **casino game developmen
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/amin-ali-ahmad-546b69183/))
-- 📧 Email: `keepminded [at] gmail.com`
+- 💼 LinkedIn: `https://www.linkedin.com/in/YOUR-LINKEDIN-HERE](https://www.linkedin.com/in/amin-ali-ahmad-546b69183/`
+- 📧 Email: `keepminded@gmail.com`
 
 ---
 
